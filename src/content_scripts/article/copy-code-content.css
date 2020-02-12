@@ -1,14 +1,17 @@
-.code-frame button.qa-copy-code { 
+.code-frame button.qa-copy-code {
   float: none; /*クラスによるfloatを解除*/
   font-size: initial; /*クラスによるフォントの拡大を解除*/
   display: inline-block; /*コード内かつコード名の右側へ*/
   position: absolute;
-  margin-top: -30px;
+  margin-top: -14px;
   margin-left: 10px;
+  background-color: transparent;
+  border: 0;
   cursor: pointer;
 
   & .qa-clippy {
     height: 16px;
+    margin: 0.1rem 0;
   }
 }
 

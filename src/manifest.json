@@ -1,15 +1,15 @@
 {
   "manifest_version": 2,
-  "name": "Q Accelerator",
-  "short_name":"QA",
-  "description": "Qiitaでの活動を加速させるChrome拡張機能",
+  "name": "Forked Q Accelerator",
+  "short_name":"FQA",
+  "description": "Qiitaでの活動を加速させるChrome拡張機能. フォーク版です.",
   "icons": {
     "16": "assets/images/qa_icon16.png",
     "48": "assets/images/qa_icon48.png",
     "128": "assets/images/qa_icon128.png"
   },
-  "version": "2.2.1",
-  "homepage_url": "https://github.com/howdy39/q-accelerator",
+  "version": "2.2.2",
+  "homepage_url": "https://github.com/nawada/q-accelerator",
   "background": {
     "persistent": false,
     "page": "background/background.html"

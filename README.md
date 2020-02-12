@@ -25,7 +25,7 @@ Qiitaでの活動を加速させるChrome拡張機能
 
 ## Installation
 
-Chrome ウェブストアからインストール  
+Chrome ウェブストアからインストール
 [https://chrome.google.com/webstore/detail/q-accelerator/mheleidccioamimekojienbdfclcbaan](https://chrome.google.com/webstore/detail/q-accelerator/mheleidccioamimekojienbdfclcbaan)
 
 
@@ -36,8 +36,8 @@ yarn
 yarn run build
 ```
 
-extensionフォルダが作られます。  
-[chrome://extensions/](chrome://extensions/)にアクセスします。  
+extensionフォルダが作られます。
+[chrome://extensions/](chrome://extensions/)にアクセスします。
 「パッケージ化されていない拡張機能を読み込む」からextensionフォルダを選択してインストールします。
 
 
@@ -49,7 +49,11 @@ extensionフォルダが作られます。
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## Contributors
+## Original
+
+[https://github.com/howdy39/q-accelerator](https://github.com/howdy39/q-accelerator)
+
+## Original Contributors
 [<img alt="howdy39" src="https://avatars1.githubusercontent.com/u/6329532?s=117" width="117">](https://github.com/howdy39) |[<img alt="locol23" src="https://avatars1.githubusercontent.com/u/6946766?s=117" width="117">](https://github.com/locol23) |[<img alt="bells17" src="https://avatars2.githubusercontent.com/u/2158863?s=117" width="117">](https://github.com/bells17) |[<img alt="y-takey" src="https://avatars0.githubusercontent.com/u/1817802?s=117" width="117">](https://github.com/y-takey) |[<img alt="potato4d" src="https://avatars0.githubusercontent.com/u/6993514?s=117" width="117">](https://github.com/potato4d) |[<img alt="munierujp" src="https://avatars2.githubusercontent.com/u/20086673?s=117" width="117">](https://github.com/munierujp) |[<img alt="yuta0801" src="https://avatars1.githubusercontent.com/u/21266306?s=117" width="117">](https://github.com/yuta0801) |
 :---: |:---: |:---: |:---: |:---: |:---: |:---: |
 [howdy39](https://github.com/howdy39) |[locol23](https://github.com/locol23) |[bells17](https://github.com/bells17) |[y-takey](https://github.com/y-takey) |[potato4d](https://github.com/potato4d) |[munierujp](https://github.com/munierujp) | [yuta0801](https://github.com/yuta0801)
